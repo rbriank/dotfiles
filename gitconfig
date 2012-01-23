@@ -1,0 +1,7 @@
+[core]
+	excludesfile = /Users/bkierstead/.gitignore_global
+[user]
+	name = Brian Kierstead
+	email = briankierstead@gmail.com
+[github]
+	user = rbriank
