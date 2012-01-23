@@ -1,6 +1,9 @@
-rbriank's dot files
+= rbriank's dot files
 
 == Installation
+
 git clone git://github.com/rbriank/dotfiles ~/.dotfiles
+
 cd ~/.dotfiles
+
 rake install
